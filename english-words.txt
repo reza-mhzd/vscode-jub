@@ -226,7 +226,7 @@ containers
 analogy
 uppercase
 lowercase
-occurrence
+occurrence  
 aspect
 immutable
 wonder
@@ -241,3 +241,34 @@ unaltered
 numerous
 designed
 intuitive
+
+
+*** 09 Basics of Input and Output ***
+
+ingaging
+obtaining
+presenting
+sourced
+avenues
+destinations
+accepting
+gear up
+back-and-forth
+prompt
+capable
+
+
+*** 10 String Formatting ***
+
+aesthethetically
+substitute
+suppose
+widely
+placeholders
+rearranged
+embed
+enhancing
+overall
+
+
+*** 11 
