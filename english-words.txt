@@ -221,3 +221,23 @@ approach
 
 *** 08 String Methods ***
 
+visualized
+containers
+analogy
+uppercase
+lowercase
+occurrence
+aspect
+immutable
+wonder
+realize
+proves
+indeed
+snippet
+mutate
+prevent
+transitioning
+unaltered
+numerous
+designed
+intuitive
