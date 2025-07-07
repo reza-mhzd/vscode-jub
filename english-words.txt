@@ -271,4 +271,29 @@ enhancing
 overall
 
 
-*** 11 
+*** 11 Escape  Sequences and Raw Strings ***
+
+typable
+denote
+practical
+dealing
+mastering
+precision
+
+
+*** 12 Composite Data Types ***
+
+compound
+utilize
+extensive
+signifies
+altered
+duplicates
+intersection
+consist
+arbitrary
+moderately
+
+
+*** 13 List ***
+
