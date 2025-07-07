@@ -297,3 +297,43 @@ moderately
 
 *** 13 List ***
 
+particularly
+grocery
+tend
+heterogeneous
+over time
+issue
+indispensable
+experienced
+proficiency
+capabilities
+leverage
+unfront
+repeated
+populate
+shrink
+demand
+chunk
+sufficient
+minimizes
+allocation
+topic
+integral
+
+
+*** Accessing and Modifying List Elements ***
+
+associated
+extend
+precse
+optimal
+
+
+*** common List Operations ***
+
+replication
+flip
+ascending
+descending
+recap
+
