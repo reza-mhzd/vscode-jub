@@ -321,7 +321,7 @@ topic
 integral
 
 
-*** Accessing and Modifying List Elements ***
+*** 14 Accessing and Modifying List Elements ***
 
 associated
 extend
@@ -329,7 +329,7 @@ precse
 optimal
 
 
-*** common List Operations ***
+*** common 15 List Operations ***
 
 replication
 flip
@@ -339,7 +339,7 @@ recap
 
 
 
-******* Tuples *******
+******* 16 Tuples *******
 
 dynamic
 impressive
@@ -424,7 +424,7 @@ toolkit
 opportunities
 
 
-****** Dictionary ******
+****** 17 Dictionary ******
 
 apart
 insertion
@@ -442,7 +442,7 @@ incredibly
 enabling
 
 
-*** Accessing and Modifying Dictionary ***
+*** 18 Accessing and Modifying Dictionary ***
 
 detailed
 objective
@@ -467,3 +467,20 @@ concerned
 prior
 mani
 instantiate
+
+
+*** 19 Dictionary Manipulation and practical Uses ***
+
+laid
+emphasis
+examined
+whole
+nuanced
+comprehension
+equippend
+dictating
+hierarchical
+turn
+manner
+
+
