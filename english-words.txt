@@ -705,3 +705,14 @@ pleasing
 
 *** 01 Introduction to Control Structures ****
 
+dictate
+categories
+selection
+control flow -->  روند کنترول
+decision-making --> تصمیم گیری
+adult
+
+
+*** 02 conditional statements ***
+
+primarily
