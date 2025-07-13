@@ -586,3 +586,122 @@ varying
 adhering
 overlook
 misusing
+
+
+
+**************************************************************************************************************
+
+*** 01 Introduction ***
+
+excellent
+stage
+continuation
+indentation
+refer
+interpreted
+clutterd
+visually
+suite
+importance
+aesthetics
+philosophy
+facilitate
+
+*** 02 line continuation ***
+
+continuation
+craft
+adventures
+undoubtedly
+tough
+spill off
+awkward
+scrolling
+disrupt
+tidy
+agreed on
+sacrificing
+stretch out
+implicit
+explicit
+naturally
+occurs
+thoughtfully
+pleasant
+involved
+marathon
+sight
+fear
+neat
+joy
+stumble
+squeeze
+permit
+discouraged
+glance
+compact
+cramming
+against
+jamming
+spotlight
+rare
+jumbled
+mss
+occasions
+term
+fit
+spirit
+sticking
+tempted
+squeeze
+express
+prioritize
+brevity
+
+
+*** 03 comments ***
+
+zone
+storm
+masterpiece
+bredcrumbs
+disregard
+meant
+obvious
+rationale
+insight
+laying down
+countless
+guesswork
+head-scratching down
+advantage
+sparingly
+temporarily
+consecutive
+rather than
+consistent
+investing
+usefulness
+
+
+*** 04 whitespace and indentation ***
+
+significantly
+impact
+functionality
+whitespace
+juxtapose
+parse
+ambiguity
+interpret
+cosmetic
+expect
+official
+pleasing
+
+
+
+****************************************************************************************
+
+*** 01 Introduction to Control Structures ****
+
