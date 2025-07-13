@@ -716,3 +716,13 @@ adult
 *** 02 conditional statements ***
 
 primarily
+outcomes
+truthy
+falsy
+truthiness
+falsiness
+conversely
+ternary operator
+condensed 
+broken down
+
