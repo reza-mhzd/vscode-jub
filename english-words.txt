@@ -740,3 +740,19 @@ celsius
 insight
 fluctuations
 bonus
+
+
+*** 04 while loops ***
+
+infinite
+continuously
+as long as --> به شرطی که، تا وقتی که،
+infinite
+intentionally
+relies on
+indefinite
+properly
+harness
+deposit
+
+*** 05 
