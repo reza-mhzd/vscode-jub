@@ -755,4 +755,14 @@ properly
 harness
 deposit
 
-*** 05 
+
+*** 05 loop control statements ***
+
+finer
+ease
+execution
+destroyed
+sparingly
+prematurely
+syntactic
+providing
