@@ -726,3 +726,17 @@ ternary operator
 condensed 
 broken down
 
+
+*** 03 for loops ***
+
+implement
+historically
+brief
+terminate
+variant
+abstract
+degree
+celsius
+insight
+fluctuations
+bonus
