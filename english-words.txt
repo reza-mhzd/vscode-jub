@@ -766,3 +766,14 @@ sparingly
 prematurely
 syntactic
 providing
+
+
+*** 06 cmoprehensions ***
+
+conciseness
+boilerplate
+fitting
+transformations
+beyond
+detract
+span
