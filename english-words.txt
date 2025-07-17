@@ -782,7 +782,7 @@ span
 
 ****************************************************************************************
 
-*** 01 # Introduction to Functions ***
+*** 01 Introduction to Functions ***
 
 discover
 mapping
@@ -812,3 +812,21 @@ inconsistency
 interchangeable
 refactoring
 self-contained logic
+
+
+*** 02 Defining and Calling Functions ***
+
+greet
+illustrates
+compartmentalize
+stand for
+aimed
+redundancy
+adhere
+demonstrate
+invoke
+omitted
+
+
+*** 03 Argument Passing ***
+
