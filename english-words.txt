@@ -922,3 +922,17 @@ completion
 
 *** 07 lambda functions ***
 
+anonymous
+duration
+succinct
+anonymity
+excel
+one-off
+derived
+calculus
+verbose
+distinct
+transient
+minor
+cram
+temporary
