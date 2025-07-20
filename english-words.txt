@@ -936,3 +936,18 @@ transient
 minor
 cram
 temporary
+
+
+*** 08 Built in Functions ***
+
+intergral
+interact
+wide range
+efficiency
+least
+surprise
+
+
+
+****************************************************************************************
+
