@@ -892,3 +892,33 @@ genuinely
 benefit
 signature
 expectation
+
+
+*** 06 function documentation ***
+
+overlook
+informative
+coverage
+toward
+proficient
+explanatory
+functionality
+valuable
+pivotal
+over time
+afterthought
+convery
+decipher
+cognitive
+guidepost
+steep
+curve
+collaboration
+regarding
+described
+catch
+completion
+
+
+*** 07 lambda functions ***
+
