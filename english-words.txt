@@ -951,3 +951,35 @@ surprise
 
 ****************************************************************************************
 
+*** 01 introduction to file handling ***
+
+persist
+nuances
+buffering
+flush
+equippend
+endeavors
+non-volatile
+diverse
+persistence
+teardown
+error-resistant
+
+
+*** 02 reading from files ***
+
+serving
+being
+administration
+parsing
+lastly
+path
+denote
+except
+accept
+expect
+aspect
+optionally
+snippet
+keep in mind
+practicalities
