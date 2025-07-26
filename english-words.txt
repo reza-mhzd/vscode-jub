@@ -983,3 +983,16 @@ optionally
 snippet
 keep in mind
 practicalities
+
+
+*** 03 writing to files ***
+
+nuances
+snippet
+truncating
+whereas
+potential
+precaution
+reside
+manually
+flush
