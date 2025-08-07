@@ -1202,3 +1202,26 @@ vehicle
 drastically
 resolution
 
+
+*** 7 types of inheritance ***
+
+insight
+ambiguities
+conflicts
+diamond
+ambiguity
+intricacies
+illuminate
+unambiguous
+enroll
+modifications
+extension
+tightly
+Coupling
+sophisticated
+in turn
+dealership
+potential
+wildlife
+sanctuary
+Alligator
