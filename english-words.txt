@@ -1273,3 +1273,20 @@ veterinary
 • Association: رابطه‌ای آزاد و مستقل بین کلاس‌ها.
 • Aggregation: رابطه‌ای که در آن اجزا می‌توانند مستقل از کل وجود داشته باشند.
 • Composition: رابطه‌ای که در آن اجزا به طور کامل وابسته به کل هستند و با نابودی کل، اجزا نیز نابود می‌شوند.
+
+
+*** 9 oop feature polymorphism ***
+
+Greek
+concern
+trait
+paramount
+open up
+sum up
+contribute
+adherence
+implementation
+
+
+*** 10 oop feature encapsulation ***
+
