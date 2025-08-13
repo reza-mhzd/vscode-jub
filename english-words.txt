@@ -1225,3 +1225,51 @@ potential
 wildlife
 sanctuary
 Alligator
+
+
+*** 8 object relationships ***
+
+realm
+Association
+Aggregation
+Composition
+Stethoscope
+independent
+existence
+retain
+implying
+ownership
+destroyed
+integral
+collar
+ecquaintances
+interconnected
+imply
+tightly
+constituents
+aggregate
+accurately
+independently
+persistence
+Loose Coupling
+evolve
+lifespan
+essence
+depicts
+conversely
+exemplary
+wagging
+slight
+Distinguish
+Misinterpreting
+Neglecting
+Segregation
+monolithic
+Favor
+Habitat
+veterinary
+
+
+• Association: رابطه‌ای آزاد و مستقل بین کلاس‌ها.
+• Aggregation: رابطه‌ای که در آن اجزا می‌توانند مستقل از کل وجود داشته باشند.
+• Composition: رابطه‌ای که در آن اجزا به طور کامل وابسته به کل هستند و با نابودی کل، اجزا نیز نابود می‌شوند.
