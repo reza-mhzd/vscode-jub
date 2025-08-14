@@ -1290,3 +1290,27 @@ implementation
 
 *** 10 oop feature encapsulation ***
 
+misuse
+landscape
+shielded
+rigid
+transparency
+Indicated   
+restrictions
+judgement
+profoundly
+alongside
+influences
+overstated
+guards
+unauthorized
+unintended
+malicious
+paramount
+resilient
+broadly
+Distinguishing
+hierarchy
+
+
+*** 11 oop feature abstract base classes *** 
