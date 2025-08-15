@@ -1314,3 +1314,11 @@ hierarchy
 
 
 *** 11 oop feature abstract base classes *** 
+
+solely
+delineates
+failing
+violated
+plugin
+begin
+inflated
